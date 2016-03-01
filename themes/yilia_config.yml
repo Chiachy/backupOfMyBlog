@@ -1,0 +1,69 @@
+﻿# Header
+menu:
+  主页: /
+  所有文章: /archives
+  随笔: /categories/随笔
+  技术: /categories/技术
+
+# SubNav
+subnav:
+  github: "https://github.com/Chiachy"
+  #weibo: "#"
+  #rss: "#"
+  zhihu: "https://www.zhihu.com/people/Chiachy"
+  #douban: "#"
+  #mail: "#"
+  facebook: "https://www.facebook.com/ezioleonic"
+  #google: "#"
+  #twitter: "#"
+  linkedin: "http://www.linkedin.com/in/chiachy"
+
+rss: /atom.xml
+
+# Content
+excerpt_link: more
+fancybox: true
+mathjax: true
+
+# 是否开启动画效果
+animate: true
+
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+google_analytics: ''
+favicon: /favicon.png
+
+#你的头像url
+avatar: "https://raw.githubusercontent.com/Chiachy/image/master/avatar.jpg"
+#是否开启分享
+share_jia: true
+share_addthis: true
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+duoshuo: true
+#是否开启云标签
+tagcloud: true
+
+#评论
+duoshuo_shortname: chiachy.duoshuo.com
+
+#是否开启友情链接
+#不开启——
+#friends: false
+#开启——
+friends:
+  Cc极生的博客: http://www.ccjason.me/
+  homker的博客: http://homker.github.io/
+  imirai的博客: http://imirai.me/
+  zeryo 的博客 : http://zeryo.me/
+  phantr4x的博客: http://phantr4x.github.io/
+  大白的博客: http://systemctl.me/
+  日新网: http://www.ecjtu.net/
+
+#是否开启“关于我”。
+#不开启——
+#aboutme: false
+#开启——
+aboutme: 先喝杯咖啡，然后我们再谈谈机器人的事。我是一名大二学生，在第八大洲上，搭建自己的小窝，在这里拓宽学习途径；在这里留下自己的学习总结、思考感悟。我深知，学习不是为了生活——生活是为了学习。跨越这两者之间的，惟有行动；伴我而行的，只有乐观与谦卑。
