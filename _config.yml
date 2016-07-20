@@ -1,11 +1,11 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hymn for Life
+title: Chiachy的博客
 subtitle: 浮躁 ，源于肤浅
-description: 学习，总结；思考，感悟
+description: 学习，总结，思考，感悟
 author: Chiachy
 language: 
 - zh-cn
