@@ -4,7 +4,7 @@ date: 2016-06-16 11:16:11
 tags:
 - StudyJams
 categories:
-- 随笔
+- 日志
 ---
 
 收到Study Jams的快件通知，我以最快的速度前去取来快件，并打开看了看<!--more-->，果不其然，里面有一本Google

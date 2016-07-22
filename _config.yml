@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Chiachy的博客
-subtitle: 浮躁 ，源于肤浅
-description: 学习，总结，思考，感悟
+title: 心也可以清
+subtitle: 
+description: 浮躁 ，源于肤浅
 author: Chiachy
 language: 
-- zh-cn
+- zh-Hans
 - en
 timezone: 
 
@@ -67,7 +67,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -76,4 +76,16 @@ deploy:
   repo: git@github.com:Chiachy/Chiachy.github.io.git
   message: 
 
-duoshuo_shortname: chiachy.duoshuo.com
+# Comment
+duoshuo_shortname: chiachy
+
+# Analytics
+baidu_analytics: b819095f4f40288a20eb983344b9f993
+
+# RSS
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+
